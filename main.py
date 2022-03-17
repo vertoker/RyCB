@@ -57,3 +57,5 @@ print("/////////////////////////////////")
 print("Count of all files:", all_extensions[0])
 print("Count of all lines in files:", all_extensions[1])
 print("Count of all symbols in files:", all_extensions[2])
+
+input("\n\nEnter to close... ")
